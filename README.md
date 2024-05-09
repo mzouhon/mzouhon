@@ -1,7 +1,4 @@
-
-
-<!--
-**mzouhon/mzouhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is Moya! Here are a few things about me!
 
 Education: Wakefield High School 2024, Smith 2028
 
